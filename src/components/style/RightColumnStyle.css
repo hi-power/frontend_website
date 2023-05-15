@@ -1,0 +1,7 @@
+ul{
+    list-style-type: none;
+  }
+.notification {
+    width: 150px;
+    height: 40px;
+}
